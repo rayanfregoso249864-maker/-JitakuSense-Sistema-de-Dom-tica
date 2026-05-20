@@ -5,7 +5,7 @@
 # ══════════════════════════════════════════════
 
 # ── ESP32 
-ESP32_IP      = "192.168.1.100"   # <- cambia esto por la IP real del ESP32
+ESP32_IP      = "192.168.1.51"   # 
 ESP32_PORT    = 80
 ESP32_BASE    = f"http://{ESP32_IP}:{ESP32_PORT}"
 TIMEOUT_SEG   = 5                 # segundos de espera por respuesta
